@@ -11,7 +11,7 @@
     {
       "matchUpdateTypes": ["major", "minor", "patch"],
       "enabled": false
-    },
+    }
   ],
   "enabledManagers": ["regex"],
   "customManagers": [
