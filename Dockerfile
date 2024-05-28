@@ -1,1 +1,1 @@
-FROM python:3.10-slim-bookworm@sha256:31b1e4b1c4a1903649c95fa5e46c1066baf6acdd33167813af9fa7905355e1a3 AS base
+FROM python:3.12-slim-bookworm@sha256:afc139a0a640942491ec481ad8dda10f2c5b753f5c969393b12480155fe15a63 AS base
