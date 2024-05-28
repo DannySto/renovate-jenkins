@@ -3,17 +3,6 @@
   "extends": [
     "config:recommended"
   ],
-  "packageRules": [
-    {
-      "matchUpdateTypes": ["digest"],
-      "enabled": true
-    },
-    {
-      "matchUpdateTypes": ["major", "minor", "patch"],
-      "enabled": false
-    }
-  ],
-  "enabledManagers": ["regex"],
   "customManagers": [
   {
     "customType": "regex",
