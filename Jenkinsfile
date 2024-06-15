@@ -41,6 +41,6 @@ def versionMapping = [
         platform: 'python',
         majorMinorVersion: '3.11',
         // renovate: datasource=docker depName=python versioning=docker
-        version: '3.11-slim-bookworm@sha256:fc39d2e68b554c3f0a5cb8a776280c0b3d73b4c04b83dbade835e2abadbadbad'
+        version: '3.11-slim-bookworm@sha256:17ec9dc2367aa748559d0212f34665ec4df801129de32db705ea34654b5bc77a'
     ]
 ]
